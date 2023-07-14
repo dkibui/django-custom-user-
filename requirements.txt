@@ -1,0 +1,11 @@
+asgiref
+black
+Django
+django-environ
+pycodestyle
+sqlparse
+toml
+tzdata
+django-ckeditor
+django-tailwind
+django-allauth
